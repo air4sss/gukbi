@@ -9,4 +9,4 @@ print(year, a, date, a, weather)
 
 # 'Pithon' 이라는 문자열을 넣은 b라는 변수를 사용하여 'Python'이라는 문자열을 출력해보자
 b = "Pithon"
-print(b[:1] + "yt" + b[3:])
+print(b[:1] + "y" + b[2:])

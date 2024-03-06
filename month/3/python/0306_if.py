@@ -110,9 +110,9 @@ def tunnel(length1, length2, length3) :
 def tunnel(length1, length2, length3) :
     limit = 170
     if length1 >= limit and length2 >= limit and length3 >= limit :
-        return "PASS!!"
+        return "PASS!"
     else :
-        return "CRUSH!!"
+        return "CRUSH!"
 """
 
 # 길이 값 입력
